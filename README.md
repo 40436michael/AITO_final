@@ -1,14 +1,3 @@
-很好，這樣需求就很清楚了 👍
-下面是一份**「完整整合版 README.md」**，**同時涵蓋這兩個程式：**
-
-1. 🌐 **Streamlit 垃圾分類圖片分析系統**
-
-2. 🤖 **Discord 垃圾分類 Bot（LLaVA + AnythingLLM）**
-
-你可以 **直接整份貼到 README.md 使用**，適合課程專題 / 專案展示 / GitHub Repo。
-
----
-
 # 🗑️ 垃圾分類圖片分析系統
 
 **(LLaVA × AnythingLLM × Streamlit × Discord Bot)**
