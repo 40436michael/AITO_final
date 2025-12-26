@@ -18,6 +18,10 @@
 * 🌐 **Web 介面（Streamlit）**
 * 🤖 **Discord Bot 介面**
 
+
+https://github.com/user-attachments/assets/784ee485-e18b-4450-89f4-e4ba5cc5fd04
+
+
 使用者可透過圖片上傳，依據 **垃圾分類規範知識庫（Workspace）** 進行分類推理。
 
 ---
